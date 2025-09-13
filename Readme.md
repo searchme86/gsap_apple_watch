@@ -2,6 +2,10 @@
 
 > 실제 Apple Watch처럼 작동하는 인터랙티브 웹 애니메이션 시스템
 
+## 미리보기 링크
+
+[애니메이션 배포 링크](https://searchme86.github.io/gsap_apple_watch/)
+
 ## 애니메이션 미리보기(PC)
 
 [![포트폴리오 데스크탑 버전 미리보기](https://img.youtube.com/vi/RQp1dWnC4XU/0.jpg)](https://youtu.be/RQp1dWnC4XU)
